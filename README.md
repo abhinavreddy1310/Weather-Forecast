@@ -31,13 +31,13 @@ This is a simple Weather Forecast web application built using **HTML, CSS, and J
 
 ### 🔍 Search Weather
 
-![Search Weather](search.png)
+![Search Weather](Search.png)
 
 ---
 
 ### 🌤️ Weather Details
 
-![Weather Details](weather.png)
+![Weather Details](Weather.png)
 
 ---
 
